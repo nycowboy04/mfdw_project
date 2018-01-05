@@ -10,5 +10,5 @@ def index (request, pagename):
         'content':pg.bodytext,
         'last_updated': pg.update_date,
     }
-    assert False
+    #assert False
     return render(request, 'pages/page.html', context)
