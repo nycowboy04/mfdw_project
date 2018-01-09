@@ -32,10 +32,10 @@ def contact(request):
                 connection=con
             )
             return HttpResponseRedirect('/contact?submitted=True')
-        else:
-            form = ContactForm()
-            if 'submitted' in request.GET:
-                submitted = True
-            return render(request, 'pages/contact.html',
-            {'form': form, 'page_list': Page.objects.all(),
-            'submitted': submitted})
+    else:
+        form = ContactForm()
+        if 'submitted' in request.GET:
+            submitted = True
+    return render(request, 'pages/contact.html',
+        {'form': form, 'page_list': Page.objects.all(),
+        'submitted': submitted})
