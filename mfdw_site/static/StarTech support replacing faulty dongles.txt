@@ -1,0 +1,18 @@
+[1/9/2018, 1:00:45 PM] Monica: Thank you for contacting StarTech.com.
+[1/9/2018, 1:01:13 PM] Monica: I'm sorry to hear that Matthew, may I ask how long ago was the adapter purchased?
+[1/9/2018, 1:01:34 PM] Matthew Sheinberg: Hi. I have several dongles that are no longer functional/broken. According to our CDW Rep, they have a lifetime warranty. I was wondering 1. How do I go about getting them back to you, and 2. if I can have them replaced with HDMI-MD dongles, as that's what we are transitioning to
+[1/9/2018, 1:01:41 PM] Matthew Sheinberg: They were purchased 2-3 years ago
+[1/9/2018, 1:02:54 PM] Monica: Thank you for the information Matthew. I see that the MDP2VGA has 2 years of warranty from the purchased date. If they were purchased within the 2 year warranty, we can certainly look into replacement for the exact same unit. Unfortunately, we do not offer exchange with a different unit at this time.
+[1/9/2018, 1:03:05 PM] Monica: We apologize for the inconvenience this may have caused.
+[1/9/2018, 1:03:17 PM] Matthew Sheinberg: Ok. What is the procedure for replacement?
+[1/9/2018, 1:03:52 PM] Monica: If the unit was not purchased directly from our website, we would need a copy of invoice to validate the warranty when starting on the replacement process.
+[1/9/2018, 1:04:05 PM] Monica: May I ask if this was purchased directly from our website?
+[1/9/2018, 1:04:20 PM] Matthew Sheinberg: I will have to find out from my supervisor. I've only been here a month
+[1/9/2018, 1:04:30 PM] Matthew Sheinberg: I suspect it was purchased from CDW
+[1/9/2018, 1:05:43 PM] Monica: Thank you again for the information. Once you have found the proof of purchase and its within the warranty, we can definitely look into the replacement process for you.
+[1/9/2018, 1:06:02 PM] Monica: May I ask how many units of the MDP2VGA adapters that is defective?
+[1/9/2018, 1:06:13 PM] Matthew Sheinberg: I have about 30 here
+[1/9/2018, 1:07:00 PM] Matthew Sheinberg: exacftly 32 dongles
+[1/9/2018, 1:07:51 PM] Monica: Thank you again for the information. Once you have source out the proof of purchase and the units are within the warranty period, you can then click on the link below below to start on the replacement process.
+[1/9/2018, 1:08:05 PM] Matthew Sheinberg: Ok. Thank you.
+[1/9/2018, 1:08:24 PM] Monica: https://www.startech.com/support/rma
