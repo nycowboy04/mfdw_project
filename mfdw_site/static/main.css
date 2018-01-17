@@ -110,7 +110,7 @@ input{
 }
 
 .required label:after{
-  content: "*"
+  content: "*";
 }
 
 .quotehdr th{
@@ -128,4 +128,16 @@ input{
 
 .altrow{
   background-color: #E0E0E0;
+}
+
+.quote td:first-child{
+  background-color: #4C4C4C;
+  color:white;
+  text-align: right;
+  padding: 8px 5px;
+  border: none;
+}
+
+.quote id{
+  padding: 5px 10px;
 }
