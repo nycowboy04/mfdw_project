@@ -109,7 +109,7 @@ input{
   border-radius: 3px;
 }
 
-.required label::after{
+.required label:after{
   content: "*"
 }
 
