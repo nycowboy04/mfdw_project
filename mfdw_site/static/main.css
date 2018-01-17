@@ -112,3 +112,20 @@ input{
 .required label::after{
   content: "*"
 }
+
+.quotehdr th{
+  background-color: #4C4C4C;
+  color: white;
+  text-align: center;
+  padding: 8px 5px;
+  border: none;
+}
+
+.quoterow td{
+  padding 5px 10px;
+  text-align: center;
+}
+
+.altrow{
+  background-color: #E0E0E0;
+}
