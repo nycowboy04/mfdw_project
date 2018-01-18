@@ -21,7 +21,7 @@ from quotes.views import Register
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^register/success/$', TemplateView.as_view
-    (template_name="registration/success.html"), name='register'),
+    (template_name="registration/registration-success.html"), name='registration-success'),
     url(r'^register/$', Register.as_view(), name='register'),
     url(r'^quote', include('quotes.urls')),
     url(r'^', include('django.contrib.auth.urls')),
