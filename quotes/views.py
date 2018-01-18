@@ -24,7 +24,8 @@ class QuoteList(LoginRequiredMixin, ListView):
     login_url= reverse_lazy('login')
     model = Quote
     context_object_name = 'all_quotes'
-    def get_query_set(self):
+
+    def get_queryset(self):
         return Quote.objects.filter(username=self.request.user)
 
     def get_context_data(self, **kwargs):
